@@ -1,0 +1,6 @@
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\bin\Debug\mylibrary.dll
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\bin\Debug\mylibrary.pdb
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\obj\Debug\mylibrary.csproj.AssemblyReference.cache
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\obj\Debug\mylibrary.csproj.CoreCompileInputs.cache
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\obj\Debug\mylibrary.dll
+C:\Users\Сайно\source\repos\ConsoleApp3\mylibrary\obj\Debug\mylibrary.pdb
